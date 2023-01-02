@@ -1,5 +1,5 @@
 <h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)</h1>
-<h2 align="center">REUPLOADED/h2>
+<h2 align="center"><h2>REUPLOADED/h2>
 
 <p align="center">
   Its a QR-LOGGER for Discord hidden as a "verification proccess"
